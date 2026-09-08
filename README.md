@@ -20,9 +20,9 @@ Este proyecto consiste en el diseño e implementación de la base de datos relac
    cd FastNetwork-
    ```
 2. **Abrir tu gestor de bases de datos preferido compatible con PostgreSQL (Beekeeper Studio, pgAdmin, DBeaver, etc.).**
-**Crear la base de datos:**
+3. **Crear la base de datos:**
    ```sql
    CREATE DATABASE fast_network_db;
    ```
-3. **Cargar el esquema de tablas: Conéctate a la base de datos fast_network_db, abre el archivo schema.sql y ejecuta el script completo para crear las tablas y sus restricciones.**
+4. **Cargar el esquema de tablas: Conéctate a la base de datos fast_network_db, abre el archivo schema.sql y ejecuta el script completo para crear las tablas y sus restricciones.**
 
