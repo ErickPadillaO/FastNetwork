@@ -16,8 +16,8 @@ Este proyecto consiste en el diseño e implementación de la base de datos relac
 ## Instrucciones de Ejecución
 1. **Clonar o descargar este repositorio:**
    ```bash
-   git clone https://github.com/ErickPadillaO/FastNetwork-.git
-   cd FastNetwork-
+   git clone https://github.com/ErickPadillaO/FastNetwork.git
+   cd FastNetwork
    ```
 2. **Abrir tu gestor de bases de datos preferido compatible con PostgreSQL (Beekeeper Studio, pgAdmin, DBeaver, etc.).**
 3. **Crear la base de datos:**
